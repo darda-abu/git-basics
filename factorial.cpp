@@ -21,6 +21,7 @@ int fibonacci(int n){
     return fibonacci(n-2) + fibonacci(n-1);
 }
 //squash line 1
+//squash line 2
 
 int main(){
     cout << factorial(5) << endl;
