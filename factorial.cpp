@@ -29,6 +29,8 @@ int factorial(int n){
     return n * factorial(n-1);
 }
 
+//hard
+
 int fibonacci(int n){
     if (n == 0 or n == 1) return 1;
     return fibonacci(n-2) + fibonacci(n-1);
