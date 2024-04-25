@@ -34,3 +34,7 @@ void criticalFix(){
 int main(){
     cout << factorial(5) << endl;
 }
+    cout << fibonacci(5) << endl;
+}
+
+//line for stashing
